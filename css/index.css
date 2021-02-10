@@ -136,3 +136,35 @@ p {
     width: 46%;
       margin-left: 4%;
 }
+
+.navbar ul {
+  margin: 15px;
+  padding:20px;
+  display: inline-block;
+  display:flex;
+  height: 70px;
+  background-color: #D3D3D3;
+  position: relative;
+  float: right;
+  justify-content: space-around;
+  align-items: center;
+}
+  .navbar li {
+
+    display: inline-block;
+    text-decoration: none;
+
+  .navbar li a {
+
+    text-decoration: none;
+    widht: 100px;
+    padding: 15px; 15px;
+
+  }
+  
+
+@media (min-width:500px) {
+    background-color: orange;
+   
+
+}

@@ -11,3 +11,9 @@
 5. Console.log the result.
 
 */
+
+
+let  electoralCollegeVote = ("display the winner");
+if (bidenVotes>==270) console.log("the winner");
+
+    else if (trumpVotes>==270) console,log("th winner");
