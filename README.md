@@ -33,7 +33,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
- semantic tags
+  Semantically correct HTML helps search engines, screen readers, and other user devices determine the significance and context of web content.
 2. What are the 4 areas of the box model?
 content, padding , border and marging
 
