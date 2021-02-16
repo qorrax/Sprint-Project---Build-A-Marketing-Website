@@ -11,3 +11,15 @@
 5. Console.log the result.
 
 */
+
+
+let a = promt("enter first number");
+let b = promt("enter 2nd number");
+alert("fist numer + 2nd number");
+
+
+
+let  electoralCollegeVote = ("display the winner");
+if (bidenVotes>==270) console.log("the winner");
+
+    else if (trumpVotes>==270) console,log("th winner");
